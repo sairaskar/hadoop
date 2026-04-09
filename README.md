@@ -2,3 +2,4 @@
 
 <img width="745" height="378" alt="Screenshot from 2026-04-09 18-23-12" src="https://github.com/user-attachments/assets/ebe2693e-a364-4d72-b35f-e60b3380b60b" />
 <img width="1857" height="860" alt="Screenshot from 2026-04-09 18-24-05" src="https://github.com/user-attachments/assets/d3b2f338-feee-41b7-8457-7a8610c44239" />
+<img width="1595" height="294" alt="Screenshot from 2026-04-09 18-28-16" src="https://github.com/user-attachments/assets/a46c6957-02ce-4d93-882e-9e479cab79c8" />
